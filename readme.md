@@ -85,7 +85,8 @@ Iris-virginica     50
 # 6. Data Visualization
 
 This was the most exciting part. In the main.py file i started with the univariate plot/plots for each individual variable. 
-![Reference Image](/my_venv/images/Figure_1.png)
+![Reference Image](/my_venv/images/Figure_1.png)![Figure_1](https://github.com/ArtoAvraham/ML-project/assets/143316684/fb70cb5b-6015-4af9-bcaa-a18f7894089b)
+
 
 I tried the histograms of each input variable to get and idea of the distribution.
 In the picture it seems like two of the input variables have a Gaussian distribution.

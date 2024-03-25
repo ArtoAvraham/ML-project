@@ -90,10 +90,12 @@ This was the most exciting part. In the main.py file i started with the univaria
 
 I tried the histograms of each input variable to get and idea of the distribution.
 In the picture it seems like two of the input variables have a Gaussian distribution.
-![Refernce Image](/my_venv/images/Figure_2.png)
+![Refernce Image](/my_venv/images/Figure_2.png) ![Figure_2](https://github.com/ArtoAvraham/ML-project/assets/143316684/d3c9741c-0dd4-4747-a8ff-a4304d9a61b0)
+
 
 Scatter plot matrix is a helpful approach to spot structured relationhips between input variables.
-![Reference Image](/my_venv/images/Figure_3.png)
+![Reference Image](/my_venv/images/Figure_3.png)  ![Figure_3](https://github.com/ArtoAvraham/ML-project/assets/143316684/6c92cfde-e69b-4111-be17-5e93bc5ad5e6)
+
 
 
 ...
@@ -132,7 +134,8 @@ plt.show()
 
 This is the most clear figure to me to compare the algorithms and the "breaktrough" moment in the project. The box and whisker plots are squashed at the top of the range, with some evaluations achieving 100% accuracy, and some pushing down into the high 80% accuracies.
 
-![Reference Image](/my_venv/images/Figure_4.png)
+![Reference Image](/my_venv/images/Figure_4.png)![Figure_4](https://github.com/ArtoAvraham/ML-project/assets/143316684/8bb78d3e-dc2a-4e22-a281-d7c49c52c663)
+
 
 ...
 # 8. Predictions
